@@ -1,0 +1,1 @@
+print("I am learning python 3.8 on my new Acer laptop and today is 08-08-2021")
